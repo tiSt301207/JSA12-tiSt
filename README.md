@@ -1,8 +1,3 @@
-## Thêm file
-
-git init
-
-## Thêm file
- git add <tên file>
-
- ##
+Trương Tân Thành
+Hà Đông - Hà Nội
+2007
