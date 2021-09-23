@@ -67,3 +67,59 @@ li>a {
 welcome-button>button.button-outline {
     background-color: rgba(0, 0,0, 0.457);
 }
+.part2{
+    width: 100%;
+}
+#a {
+    width: auto;
+}
+.all img {
+    width : 100%;
+}
+.all {
+    width: 25%;
+}
+.flex-container {
+    display: flex;
+    flex-direction: row;
+}
+.gachngang {
+    color: orange;
+}   
+.flex-container {
+    display: flex;
+    flex-direction: row;
+}
+#We {
+    text-align: center;
+    font-weight: lighter;
+    margin-bottom: 135px;
+}
+#lisbon {
+    width: 17%;
+    margin-left: 200px;
+}
+#lisbon img {
+    width: 100%;
+}
+#san{
+    width: 17%;
+    margin-left: 30px;
+}
+#san img{
+    width: 100%;
+}
+#berlin{
+    width: 17%;
+    margin-left: 30px;
+}
+#berlin img{
+    width: 100%;
+}
+#london{
+    width: 17%;
+    margin-left: 30px;
+}
+#london img {
+    width: 100%;
+}
