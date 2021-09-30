@@ -83,9 +83,6 @@ welcome-button>button.button-outline {
     display: flex;
     flex-direction: row;
 }
-.gachngang {
-    color: orange;
-}   
 .flex-container {
     display: flex;
     flex-direction: row;
@@ -121,5 +118,70 @@ welcome-button>button.button-outline {
     margin-left: 30px;
 }
 #london img {
+    width: 100%;
+}
+.sanfr {
+    margin-left: 520px;
+   margin-top: 20px;
+}
+.sanfra {
+    margin-left: 545px;
+    margin-top: -3px;
+    
+}
+.lisb {
+    margin-left: 200px;
+}
+.lisbo {
+    margin-left: 225px;
+    margin-top: -5px;
+}
+#fakea   {
+    width: 100%;
+    margin-left: 205px;
+    
+}
+#fakeb {
+    width: 100%;
+    margin-left:505px ;
+    margin-top: -180px;
+}
+#fakec {
+    width: 100%;
+    margin-left: 825px;
+    margin-top: -190px;
+}
+#faked {
+    width: 100%;
+    margin-left: 1150px;
+    margin-top: -200px;
+}
+.customera img {
+    width: 100%;
+}
+.customera {
+    width: 4%;
+    margin-left: 205px;
+}
+.customerb img {
+    width: 100%;
+}
+.customerb {
+    width: 4%;
+    margin-left:705px ;
+    margin-top: -75px;
+}
+.customerc img {
+    width: 100%;
+}
+.customerc {
+    width: 4%;
+    margin-left: 1325px;
+    margin-top: -70px;
+}
+.part5 img {
+    width: 100%;
+}
+.part1 img {
     width: 100%;
 }
